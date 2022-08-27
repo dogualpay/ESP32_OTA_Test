@@ -1,4 +1,5 @@
 {
-	"version": 0.7,
-	"file": "https://dogualpay.github.io/ESP32_OTA_Test/simple_ota0_7.bin"
+	"version": 0.8
+,
+	"file": "https://dogualpay.github.io/ESP32_OTA_Test/simple_ota0_8.bin"
 }
