@@ -1,5 +1,4 @@
 {
-	"version": 0.18
-,
-	"file": "https://dogualpay.github.io/ESP32_OTA_Test/v0.17.bin"
+	"version": 0.03,
+	"file": "/src/tds_v0.03.bin"
 }
